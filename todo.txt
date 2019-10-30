@@ -1,0 +1,2 @@
+1. Add animals (primates, reptiles, an aviary, aquatic animals, etc.)
+2. Animate
